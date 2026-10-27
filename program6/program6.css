@@ -1,0 +1,8 @@
+h1{font-style:italic;color:red;}
+body{background-color:pink;}
+textarea{background-color:powderblue;border:1px solid blue;border-radius:5px;}
+input{background-color:powderblue;}
+select{background-color:powderblue;border:1px solid blue;border-radius:5px;}
+legend{color:blue;font-weight:bold;}
+button[type="submit"] {background-color:green;color:white;border:2px solid darkgreen;border-radius:5px;padding:8px 15px;}
+button[type="reset"] {background-color:red;color:white;border:2px solid darkred;border-radius:5px;padding:8px 15px;}
